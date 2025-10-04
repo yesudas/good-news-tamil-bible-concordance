@@ -1,0 +1,51 @@
+<?php
+     $version = '2025.01';
+?>
+<!DOCTYPE html>
+<html lang="ta">
+<?php include '../header.php'; ?>
+
+<center>
+<body>
+<?php include '../menu.php'; ?>
+
+<img src="../assets/kcon997.gif">
+<br>
+<img src="../assets/kcon997-1.gif">
+<br>
+<img src="../assets/kcon997-2.gif">
+<br>
+<img src="../assets/kcon997-3.gif">
+<br>
+<img src="../assets/kcon997-4.gif">
+<br>
+<img src="../assets/kcon997-5.gif">
+<br>
+<img src="../assets/kcon997-6.gif">
+<br>
+<img src="../assets/kcon997-7.gif">
+<br>
+<img src="../assets/kcon997-8.gif">
+<br>
+<img src="../assets/kcon997-9.gif">
+<br>
+<img src="../assets/kcon997-10.gif">
+<br>
+<img src="../assets/kcon997-11.gif">
+<br>
+</center>
+<p align="center">
+<table>
+<th><a href="../html/chart1.php?v=<?php echo $version; ?>"><img src="../assets/alphabet.gif"border=0>
+
+<th><a href="../html/kcon996.php?v=<?php echo $version; ?>"><img src="../assets/arrow-left.png"></a></th>
+<th><a href="../html/kcon998.php?v=<?php echo $version; ?>"><img src="../assets/arrow-right.png"></a></th> 
+<?php include '../bgsound.php'; ?>
+
+</src>
+</p>
+</table>
+<?php include '../footer.php'; ?>
+</body>
+
+</html>
